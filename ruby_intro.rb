@@ -1,4 +1,16 @@
-# When done, submit this entire file.
+#--------------------------------------------------------------------
+#File_Name:ruby_intro.rb
+#File_Type:ruby
+#File_Size:6485B
+#Description:homework#1
+#Line_Number:250
+#Version:
+#Created_Time :2015-Oct-07 16:48:18
+#Last_Modified:2015-Oct-07 17:05:03
+#Author:Alostar Linc
+#Mail:linc.musoom@foxmail.com & 138982002@qq.com
+#Phone:
+#--------------------------------------------------------------------
 
 # Part 1
 
